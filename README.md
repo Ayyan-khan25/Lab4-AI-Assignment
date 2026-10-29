@@ -5,6 +5,9 @@
 **Week:** 4  
 **Lectures:** L7–L8  
 **CLO:** CLO2 (C3: Apply)
+**Name:** M.Ayyan khan
+**Roll no:** 042
+**Section:** BSAI-3A
 
 ## Objective
 To understand heuristic evaluation functions, manually trace A* search, compare A* with Uniform-Cost Search (UCS), and investigate how an overestimating heuristic can affect optimality.
